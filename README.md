@@ -45,40 +45,40 @@ HMBooks is an organizer for books at home, where sometimes we fall in love with 
 
 ### 2. Define User Journey
   1. A Book Lover
-    -searches and buys books that wanted to read in the near future
-    -every book bought its put in order of the day it was bought
-    -in a future time she tries to find a book she bought around 2 years or so.
-    -she search an excel with all her books and order them by year because she only remembers the story or parts of the plot.
-    -she has pasted stickers on her bookshelft to easly find her books.
-    -at reading time she likes taking notes of interesting quotes to later share with friends.
-    -outside home she cant remember how many and which books she have, but she keeps buying interesting titles that she knows she dont have.
-    -if a friend asks for a book to borrow, both coordinate a date to go to her personal library and find that book.
+    - Searches and buys books that wanted to read in the near future
+    - Every book bought its put in order of the day it was bought
+    - in a future time she tries to find a book she bought around 2 years or so.
+    - she search an excel with all her books and order them by year because she only remembers the story or parts of the plot.
+    - she has pasted stickers on her bookshelft to easly find her books.
+    - at reading time she likes taking notes of interesting quotes to later share with friends.
+    - outside home she cant remember how many and which books she have, but she keeps buying interesting titles that she knows she dont have.
+    - if a friend asks for a book to borrow, both coordinate a date to go to her personal library and find that book.
 
 
 ### 3. Define Proto-Personas
   1. Karina
-    -32 years old
-    -lives with her lovely cat
-    -works as an artist
-    -never leaves home without a novel
-    -visits the bookstore once in a week.
-    -she keeps up to date with the latest books of her favourite authors
-    -she also read entrepreneurship and business books
+    - 32 years old
+    - lives with her lovely cat
+    - works as an artist
+    - never leaves home without a novel
+    - visits the bookstore once in a week.
+    - she keeps up to date with the latest books of her favourite authors
+    - she also read entrepreneurship and business books
     (Objectives)
-    -a way to better organize her bookshelft
-    -know how many books she have and which are they
+    - a way to better organize her bookshelft
+    - know how many books she have and which are they
 
   2. Luis
-    -20 years old
-    -lives with his parents
-    -he studies computer science
-    -loves reading tech books
-    -started reading Machine Learning Papers
-    -he keeps up to date with the latest tech with ranked books.
-    -he exchange books with his friends
+    - 20 years old
+    - lives with his parents
+    - he studies computer science
+    - loves reading tech books
+    - started reading Machine Learning Papers
+    - he keeps up to date with the latest tech with ranked books.
+    - he exchange books with his friends
     (Objectives)
-    -easily organize all his books and papers
-    -keep a record of exchanged books with notes related.
+    - easily organize all his books and papers
+    - keep a record of exchanged books with notes related.
 
 
 ### 4. Define User Stories 
@@ -122,16 +122,17 @@ HMBooks is an organizer for books at home, where sometimes we fall in love with 
 
 ### 7. Tests Cases
   1. Functional test
+
     (New book bought)
-    -[ ] the user opens the app and see a list of all his books
-    -[ ] he has bought a new book and wants to add it to his collection
-    -[ ] fills all the book data and pick a place in the bookshelft
-    -[ ] see his book added with the current date and a code asigned 
+    - [ ] the user opens the app and see a list of all his books
+    - [ ] he has bought a new book and wants to add it to his collection
+    - [ ] fills all the book data and pick a place in the bookshelft
+    - [ ] see his book added with the current date and a code asigned 
 
     (Search his books)
-    -[ ] re-order his books by date, place bought, publisher, author, genre.
-    -[ ] found a book and pick it from the bookshelft with the number asigned.
-    -[ ] see the book marked as "reading by <username>"
+    - [ ] re-order his books by date, place bought, publisher, author, genre.
+    - [ ] found a book and pick it from the bookshelft with the number asigned.
+    - [ ] see the book marked as "reading by <username>"
 
     (take notes)
   2. Integration tests
