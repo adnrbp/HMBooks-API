@@ -44,8 +44,10 @@ DJANGO_APPS = [
 ]
 
 THIRD_PARTY_APPS = [
+    'rest_framework'
 ]
 LOCAL_APPS = [
+    'hmbooks.health_checks.apps.HealthChecksAppConfig'
 ]
 INSTALLED_APPS = DJANGO_APPS + THIRD_PARTY_APPS + LOCAL_APPS
 
